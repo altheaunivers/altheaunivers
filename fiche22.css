@@ -10,7 +10,7 @@
     background-image: var(--bg-image);
     border: var(--size-basic) solid var(--color-dark);
 }
-.fiche22-titre, .fiche22-pseudo, header1{
+.fiche22-titre, .fiche22-pseudo{
     padding: 0.5rem;
     font-family: var(--font-subtitle);
     font-size: 1.438rem;
@@ -18,7 +18,7 @@
     text-align: center;
     color: var(--color-text-titre);
 }
-.fiche22-sstitre, header2 {
+.fiche22-sstitre{
     padding: 0.5rem;
     font-family: var(--font-title);
     font-size: 1.1rem;
@@ -451,6 +451,12 @@ imgnewsangels{
   imghermit{
       background-image:var(--image-hermit);
   }
+header1{
+      font-family: var(--font-subtitle);
+}
+header2{
+     font-family: var(--font-title);
+}
 gradient{
     background: var(--color-gradient);
     -webkit-background-clip: text;
