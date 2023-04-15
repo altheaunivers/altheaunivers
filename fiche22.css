@@ -453,9 +453,13 @@ imgnewsangels{
   }
 header1{
       font-family: var(--font-subtitle);
+      font-size: 1.438rem;
+      text-transform: uppercase;
 }
 header2{
      font-family: var(--font-title);
+     font-size: 1.1rem;
+    text-transform: uppercase;
 }
 gradient{
     background: var(--color-gradient);
