@@ -204,7 +204,7 @@ box-sizing:content-box; -moz-box-sizing:initial; -webkit-box-sizing:initial;
     z-index: 500;
     position: relative;
     background-repeat:no-repeat;
-    background-image:url(https://2img.net/u/4114/21/14/44/avatars/23-48.jpg);
+    background-image:var(--image-avatar-default);
     height:300px;
     width:180px;
  }
