@@ -456,6 +456,12 @@ gradient{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+claire{
+        color:var(--color-text-light);
+}
+sombre{
+        color:var(--color-text-dark);
+}
 .fiche22-scenario-groupe bgnewsangels,.fiche22-scenario-groupe bgheartshadow,.fiche22-scenario-groupe bgbeautyofnight, .fiche22-scenario-groupe bgzkillers,.fiche22-scenario-groupe bghermit{
     display: block;
 }
