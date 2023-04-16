@@ -204,6 +204,7 @@ box-sizing:content-box; -moz-box-sizing:initial; -webkit-box-sizing:initial;
     z-index: 500;
     position: relative;
     background-repeat:no-repeat;
+    background-size:cover;
     background-image:var(--image-avatar-default);
     height:300px;
     width:180px;
