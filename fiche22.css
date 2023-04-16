@@ -490,13 +490,13 @@ newsangels,.fiche22-lien-details newsangels,.fiche22-pv-details newsangels, .fic
     background: var(--color-lightgrey);
     padding: 1px;
 }
-zkillers, disponible,.fiche22-rp-lien__ec{
+zkillers, disponible,.fiche22-rp-lien__ec,.fiche22-rp-lien__ec:link,.fiche22-rp-lien__ec:visited{
     color:var(--color--zkillers);
 }
-newsangels, retenu,.fiche22-rp-lien__a{
+newsangels, retenu,.fiche22-rp-lien__a,.fiche22-rp-lien__a:link,.fiche22-rp-lien__a:visited{
     color:var(--color--newsangels);
 }
-hermit, pris,.fiche22-rp-lien__t{
+hermit, pris,.fiche22-rp-lien__t,.fiche22-rp-lien__t:link,.fiche22-rp-lien__t:visited{
     color:var(--color--hermit);
 }
 heartshadow{
