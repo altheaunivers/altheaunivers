@@ -160,12 +160,15 @@ span.fiche22-lien-type,.fiche22-pv-faceclaim {
     left: 57.5%;
 }
 .fiche22-pub-nav li {
-    display: block;
+    display: flex;
+    flex-wrap: wrap;
     margin-top: 0.9rem;
 }
 .fiche22-pub-nav li ul {
-    padding: 2px;
+    margin: 5px 0;
     background: var(--color-gradient);
+    width: 184px;
+    padding: 2px;
     text-transform: uppercase;
     text-align: center;
 }
