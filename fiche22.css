@@ -417,6 +417,15 @@ box-sizing:content-box; -moz-box-sizing:initial; -webkit-box-sizing:initial;
     display: inline-block;
     width: 167px;
 }
+
+.fiche22-pub-discord, .fiche22-pub-forum {
+    width: 38%;
+    text-align: center;
+}
+.fiche22-pub-discord header1, .fiche22-pub-forum header1 {
+    font-size: 0.84rem;
+    color: var(--color-text-light);
+}
 /******* bouton spoiler ********/
 #fiche22-abracadabra {
     display: none;
