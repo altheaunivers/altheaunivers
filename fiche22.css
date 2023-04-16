@@ -484,7 +484,7 @@ sombre{
 .fiche22-scenario-groupe bgnewsangels,.fiche22-scenario-groupe bgheartshadow,.fiche22-scenario-groupe bgbeautyofnight, .fiche22-scenario-groupe bgzkillers,.fiche22-scenario-groupe bghermit{
     display: block;
 }
-bgnewsangels,.fiche22-lien-details newsangels,.fiche22-pv-details newsangels, .fiche22-text newsangels,.fiche22-lien-details retenu,.fiche22-pv-details retenu, .fiche22-text retenu,bgheartshadow,bgbeautyofnight,bgzkillers,.fiche22-lien-details zkillers,.fiche22-pv-details zkillers, .fiche22-text zkillers,.fiche22-lien-details disponible,.fiche22-pv-details disponible, .fiche22-text disponible,bghermit,.fiche22-lien-details hermit,.fiche22-pv-details hermit, .fiche22-text hermit,.fiche22-lien-details pris,.fiche22-pv-details pris, .fiche22-text pris,.fiche22-rp-lien__ec,.fiche22-rp-lien__a,.fiche22-rp-lien__t{ 
+newsangels,.fiche22-lien-details newsangels,.fiche22-pv-details newsangels, .fiche22-text newsangels,.fiche22-lien-details retenu,.fiche22-pv-details retenu, .fiche22-text retenu,heartshadow,beautyofnight,zkillers,.fiche22-lien-details zkillers,.fiche22-pv-details zkillers, .fiche22-text zkillers,.fiche22-lien-details disponible,.fiche22-pv-details disponible, .fiche22-text disponible,hermit,.fiche22-lien-details hermit,.fiche22-pv-details hermit, .fiche22-text hermit,.fiche22-lien-details pris,.fiche22-pv-details pris, .fiche22-text pris,.fiche22-rp-lien__ec,.fiche22-rp-lien__a,.fiche22-rp-lien__t,.fiche22-rp-lien__ec:link,.fiche22-rp-lien__a:link,.fiche22-rp-lien__t:link,.fiche22-rp-lien__ec:visited,.fiche22-rp-lien__a:visited,.fiche22-rp-lien__t:visited{ 
     display: inline-block;
     margin: 2px;
     background: var(--color-lightgrey);
