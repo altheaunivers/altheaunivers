@@ -56,8 +56,6 @@
 .fiche22-pub-text {
     width: 91%;
     font-size: 0.65rem;
-    color:var(--color-text-light);
-    font-family:var(--font-basic)
 }
 .fiche22-pub-text,
 .fiche22-text, .fiche22-pub-text,.fiche22-rp,.fiche22-hourra-text {
@@ -116,7 +114,6 @@ champs {
 }
 .fiche22-hourra-instruction {
     width: 72%;
-    color: var(--color-text-light);
 }
 .fiche22-pv-details {
     width: 86%;
