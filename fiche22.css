@@ -53,8 +53,8 @@
     text-align: justify;
     overflow: auto;
 }
-.fiche22-pub-text{
-    width:97%;
+.fiche22-pub-text {
+    width: 91%;
     font-size: 0.65rem;
     color:var(--color-text-light);
     font-family:var(--font-basic)
