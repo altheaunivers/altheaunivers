@@ -346,6 +346,9 @@ box-sizing:content-box; -moz-box-sizing:initial; -webkit-box-sizing:initial;
 .fiche22-perso-info:first-of-type {
     margin-top: 3.5px;
 }
+.fiche22-perso-info:nth-last-of-type(2), .fiche22-perso-info:last-of-type {
+    background: var(--color-darkgrey);
+}
 .champs, gradient{
     background: var(--color-gradient);
     -webkit-background-clip: text;
