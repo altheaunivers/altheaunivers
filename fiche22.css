@@ -221,6 +221,9 @@ box-sizing:content-box; -moz-box-sizing:initial; -webkit-box-sizing:initial;
     height: 263px;
     transition: 2.3s ease-in-out;
 }
+.fiche22-text-ressource {
+    background-color: var(--color-lightgrey);
+}
 .fiche22-scenario-text{
     background-color:black;
     width:164px;
